@@ -8,7 +8,7 @@
 ## Project Contents
 - [seeds/](https://github.com/sagar-0817/brazilian_ecommerce_olist/tree/main/seeds)
     - the directory contains 8 different datasets (csv files) corresponding to the orders
-    - the Exploratory Data Analysisc(EDA) of the datasets could be found below
+    - the Exploratory Data Analysis (EDA) of the datasets could be found below
     - these individual datasets have relation with each other (Relational Data) and are loaded in BigQuery
     - the data model indicating the relationship between them could be found below
 
