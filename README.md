@@ -5,6 +5,13 @@
 - The data is downloaded from [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 - The raw data and all SQL queries (for data analysis) are stored in BigQuery, a Google Cloud data warehouse and the pipeline is managed using [dbt](https://docs.getdbt.com/)
 
+## Project Contents
+- [seeds/](https://github.com/sagar-0817/brazilian_ecommerce_olist/tree/main/seeds)
+    - the directory contains 8 different datasets (csv files) corresponding to the orders
+    - the Exploratory Data Analysisc(EDA) of the datasets could be found below
+    - these individual datasets have relation with each other (Relational Data) and are loaded in BigQuery
+    - the data model indicating the relationship between them could be found below
+
 ## Exploratory Data Analysis
 
 - The [colab](https://colab.research.google.com/) notebook below contains the EDA of the main datasets used in the SQL queries
