@@ -26,3 +26,7 @@
 
 - The main datasets and the relationship between them could be seen in the following diagram
 ![brazilian_ecommerce_olist_data_model](https://user-images.githubusercontent.com/74661476/211241530-407b133f-6072-4aae-976b-40dcf7f03b09.jpg)
+
+## Queries Explanation
+
+- The thought process behind developing the SQL queries for each expected outcome is described in the [Olist - Brazilian E-commerce Analysis](https://docs.google.com/document/d/17eJiqFd-fwYwN-IlRt1eq8UQZzD9l3qepbQpVUxeP_0/edit?usp=sharing) document
