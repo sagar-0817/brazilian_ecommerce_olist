@@ -1,15 +1,6 @@
-Welcome to your new dbt project!
+# Olist - Brazilian E-commerce Analysis
 
-### Using the starter project
-
-Try running the following commands:
-- dbt run
-- dbt test
-
-
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+## Description
+- A data analysis project analysing the data from the Brazilian E-commerce website, [Olist](https://olist.com/pt-br/)
+- The data is downloaded from [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+- The raw data and all SQL queries (for data analysis) are stored in BigQuery, a Google Cloud data warehouse and the pipeline is managed using [dbt](https://docs.getdbt.com/)
