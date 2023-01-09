@@ -12,6 +12,11 @@
     - these individual datasets have relation with each other (Relational Data) and are loaded in BigQuery
     - the data model indicating the relationship between them could be found below
 
+- [models/](https://github.com/sagar-0817/brazilian_ecommerce_olist/tree/main/models)
+    - the directory contains 6 different subdirectories corresponding to each outcome expected by the Data Analyst team
+    - each subdirectory contains sql file(s) containing the query performing analysis to produce the required data
+    - the data produced by each query is materialized as a view in BigQuery
+
 ## Exploratory Data Analysis
 
 - The [colab](https://colab.research.google.com/) notebook below contains the EDA of the main datasets used in the SQL queries
